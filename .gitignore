@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project specific
+shakespeare_vectorstore/
+vector_db/
+*.pkl
+shakespeare_data/
+*.mov
+*.mp4
