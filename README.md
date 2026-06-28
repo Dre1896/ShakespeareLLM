@@ -1,6 +1,6 @@
 # ShakespeareLLM — A Retrieval-Augmented Generation System for Shakespeare's Complete Works
 
-![Books](assets/books.jpg) 
+![Books](assets/books.jpeg)
 
 A production RAG system built over Shakespeare's complete corpus — 35 plays, 154 sonnets, 
 and narrative poems from the Folger Shakespeare Library. Ask questions, explore themes, 
