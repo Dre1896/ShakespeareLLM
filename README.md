@@ -23,7 +23,7 @@ Shakespeare wrote differently across forms.
 Built with:
 - **LangChain** for document loading, chunking, and retrieval chain orchestration
 - **Chroma** as the vector database with persistent local storage
-- **HuggingFace sentence-transformers** (`all-MiniLM-L6-v2`) for embeddings — 
+- **HuggingFace sentence-transformers** (`all-MiniLM-L6-v2`) for embeddings:  
   384-dimensional vectors, runs locally with no API cost
 - **Claude Haiku** (Anthropic) as the LLM backend
 - **Streamlit** for the production UI with adjustable temperature, retrieval k, 
