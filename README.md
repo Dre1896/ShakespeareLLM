@@ -1,3 +1,7 @@
+<h1 align="center">
+<img src="assets/banner.png">
+</h1> 
+
 # ShakespeareLLM — A Retrieval-Augmented Generation System for Shakespeare's Complete Works
 
 ![Books](assets/books.jpeg)
