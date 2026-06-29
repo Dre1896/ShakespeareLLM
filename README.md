@@ -11,7 +11,7 @@ and retrieve grounded answers directly from the text.
 One of the more interesting findings when building this: when you embed Shakespeare's works 
 and reduce them to three dimensions with t-SNE, the genres cluster naturally. Comedies 
 group together. Tragedies group together. Histories and poetry form their own regions. 
-The model learned genre without being told genre — it's purely a function of how 
+The model learned genre without being told genre. It's purely a function of how 
 Shakespeare wrote differently across forms.
 
 ![3D Vector Space](assets/tsne_3d.gif)
